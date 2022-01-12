@@ -1,0 +1,11 @@
+body {
+	margin : 0px;
+}
+
+h1 {
+	padding : 10px;
+	text-align : center;
+	font-weight : 200;
+	background-color : #ccc;
+	font-family : calibri;
+}
