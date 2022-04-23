@@ -39,11 +39,13 @@ const prop1 = {
 	jc : "justify-content",
 	ai : "align-items",
 	ws : "white-space",
+	wwrp : "word-wrap",
 	gg : "grid-gap",
 	bs : "box-shadow",
 	crsr : "cursor",
 	zi : "z-index",
-	wrdbrk : "word-break"
+	wrdbrk : "word-break",
+	flxDir : "flex-direction"
 }
 
 const prop2 = {
@@ -93,7 +95,8 @@ const val = {
 	scrl : "scroll",
 	def : "default",
 	brkall : "break-all",
-	"flxs" : "flex-start"
+	"flxs" : "flex-start",
+	"brkw" : "break-word"
 }
 
 const def = "10px";
